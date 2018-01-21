@@ -1,0 +1,26 @@
+{
+  "name": "angular-command-bus",
+  "version": "1.0.0",
+  "description": "Angular command bus module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developer05/angular-command-bus.git"
+  },
+  "keywords": [
+    "commandbus",
+    "cqrs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developer05/angular-command-bus/issues"
+  },
+  "homepage": "https://github.com/developer05/angular-command-bus#readme",
+  "dependencies": {
+    "@angular/core": "~5.2.1"
+  }
+}
