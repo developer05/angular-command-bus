@@ -2,9 +2,10 @@
   "name": "angular-command-bus",
   "version": "1.0.0",
   "description": "Angular command bus module",
-  "main": "index.js",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "run": "ts-node ./src/index.ts"
   },
   "repository": {
     "type": "git",
